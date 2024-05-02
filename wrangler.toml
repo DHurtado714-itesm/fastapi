@@ -1,6 +1,0 @@
-name = "fastapi"
-compatibility_date = "2023-04-28"
-
-[vars]
-UPSTASH_REDIS_REST_TOKEN = AadhASQgMDYyMjBmYWEtMWU4ZC00Y2U4LTg3ZmMtNmU3MDgxODE2NTE4ZTQzMDY4MDNkMzUxNDgyMTg5NDc1YzhkYTk3Mzk0NzE=
-UPSTASH_REDIS_REST_URL = https://us1-top-kit-42849.upstash.io
